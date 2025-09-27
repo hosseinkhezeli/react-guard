@@ -1,5 +1,5 @@
 {
-  "name": "@h.khezli/react-guard",
+  "name": "react-guard",
   "version": "0.1.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -18,7 +18,8 @@
     "react-dom": "^18.0.0"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.3.1",
