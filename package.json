@@ -1,5 +1,5 @@
 {
-  "name": "react-guard",
+  "name": "react-guard-next",
   "version": "0.6.1",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
